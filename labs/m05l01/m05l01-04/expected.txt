@@ -1,0 +1,3 @@
+evidence.img: 16 of 16 blocks match
+working.img: 15 of 16 blocks match
+  block 5: bytes 327680 to 393215 differ

@@ -1,0 +1,9 @@
+type,value,first_seen,last_seen,confidence,source
+ipv4,198.51.100.23,2026-09-20,2026-09-25,80,partner-isac
+ipv4,203.0.113.14,2026-05-02,2026-05-09,70,community
+domain,update-check.example.org,2026-09-18,2026-09-25,90,partner-isac
+domain,corp.example.com,2026-09-24,2026-09-24,50,community
+domain,files.example.net,2026-09-01,2026-09-22,30,community
+sha256,d6d0c8eb4047d89cbc0522c87591e36924ad86be3f9f98ed8fffed8ab3bea1dc,2026-09-24,2026-09-24,90,vendor
+sha256,a77956be47e8c23a0efaa9040a91e50759a37d12760863f1e72dda33edfc3230,2025-08-03,2025-08-20,85,vendor
+sha256,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,2026-08-01,2026-09-26,60,community

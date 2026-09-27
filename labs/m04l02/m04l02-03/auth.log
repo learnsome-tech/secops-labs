@@ -1,0 +1,8 @@
+Mar  2 07:58:02 db01 sshd[1488]: Accepted password for backup from 192.0.2.10 port 40002 ssh2
+Mar  2 08:41:09 bastion01 sshd[2211]: Failed password for root from 203.0.113.50 port 50122 ssh2
+Mar  2 08:41:15 bastion01 sshd[2211]: Failed password for deploy from 203.0.113.50 port 50122 ssh2
+Mar  2 08:42:30 bastion01 sshd[2230]: Accepted password for deploy from 203.0.113.50 port 50188 ssh2
+Mar  2 08:44:02 app03 sshd[871]: Accepted password for ops from 198.51.100.23 port 61220 ssh2
+Mar  2 08:51:47 app02 sshd[918]: Accepted password for deploy from 192.0.2.10 port 40112 ssh2
+Mar  2 08:52:10 app03 sshd[877]: Failed password for deploy from 192.0.2.10 port 40120 ssh2
+Mar  2 09:03:33 db01 sshd[1502]: Accepted password for backup from 192.0.2.21 port 38844 ssh2

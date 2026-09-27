@@ -1,0 +1,4 @@
+crown    silent 1 of 4 (25%) red
+   sql-payroll.corp.example.com
+standard silent 1 of 6 (17%) amber
+   print01.corp.example.com

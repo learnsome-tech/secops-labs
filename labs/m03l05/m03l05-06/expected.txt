@@ -1,0 +1,4 @@
+03:13:02 build-bot cronjobs kube-system/log-rotate */10 * * * *
+03:13:30 build-bot clusterrolebindings cluster/ci-admin grants cluster-admin
+03:14:05 build-bot secrets kube-system/metrics-token service-account-token
+03:15:44 build-bot pods default/node-debug hostPath /etc/kubernetes/manifests

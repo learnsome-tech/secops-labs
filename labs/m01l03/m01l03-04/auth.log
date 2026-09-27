@@ -1,0 +1,8 @@
+Mar  9 08:01:22 bastion sshd[4121]: Failed password for invalid user admin from 203.0.113.9 port 51022 ssh2
+Mar  9 08:01:25 bastion sshd[4121]: Failed password for invalid user oracle from 203.0.113.9 port 51022 ssh2
+Mar  9 08:01:31 bastion sshd[4130]: Failed password for root from 203.0.113.9 port 51040 ssh2
+Mar  9 08:02:10 bastion sshd[4133]: Accepted publickey for deploy from 198.51.100.20 port 40112 ssh2
+Mar  9 08:04:47 bastion sshd[4140]: Accepted password for j.doe from 203.0.113.9 port 51102 ssh2
+Mar  9 08:05:02 bastion sudo[4151]:    j.doe : TTY=pts/1 ; PWD=/home/j.doe ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+Mar  9 08:06:13 web01 sshd[2210]: Connection closed by 198.51.100.20 port 40200 [preauth]
+Mar  9 08:07:40 web01 CRON[2231]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)

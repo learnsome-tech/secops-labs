@@ -1,0 +1,3 @@
+v1 as written  4/5 pass short -ec flag
+broadened      4/5 pass admin -ExecutionPolicy
+v2             5/5 pass

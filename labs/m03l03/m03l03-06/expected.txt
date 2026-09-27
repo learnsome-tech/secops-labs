@@ -1,0 +1,8 @@
+ipv4   198.51.100.23              keep
+ipv4   203.0.113.14               drop: last seen 141 days ago
+domain update-check.example.org   keep
+domain corp.example.com           drop: known benign
+domain files.example.net          drop: confidence 30
+sha256 d6d0c8eb4047d89cbc0522c875 keep
+sha256 a77956be47e8c23a0efaa9040a drop: last seen 403 days ago
+sha256 e3b0c44298fc1c149afbf4c899 drop: known benign

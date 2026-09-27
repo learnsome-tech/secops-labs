@@ -1,0 +1,6 @@
+33 alerts became 5 cases
+ 26 x Password spray from one IP, 203.0.113.77 from 01:50
+  2 x Impossible travel sign-in, j.doe@example.com from 02:14
+  1 x Impossible travel sign-in, m.lee@example.com from 02:20
+  1 x Shell spawned in container, shop/web-6c9f8d7b5-x2k4q from 02:41
+  3 x Password spray from one IP, 203.0.113.77 from 03:05

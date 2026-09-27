@@ -1,0 +1,7 @@
+port 22
+addressfamily any
+permitrootlogin no
+pubkeyauthentication yes
+passwordauthentication no
+kbdinteractiveauthentication no
+x11forwarding no

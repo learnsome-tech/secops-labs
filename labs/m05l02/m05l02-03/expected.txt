@@ -1,0 +1,5 @@
+report.docx SI created 2026-02-27 14:03:51  FN created 2026-02-27 14:03:51
+update.exe  SI created 2019-06-11 10:20:00  FN created 2026-03-02 08:52:14
+  SI creation is earlier than FN creation
+  SI time has no fraction of a second
+stage.ps1   SI created 2026-03-02 08:52:11  FN created 2026-03-02 08:52:11

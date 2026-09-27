@@ -1,0 +1,11 @@
+time,host,technique,observation
+2026-09-14T08:02Z,MAIL-01,T1566.001,invoice_0914.iso mailed from example.org
+2026-09-14T08:05Z,WS-114,T1204.002,user opened invoice.lnk inside the ISO
+2026-09-14T08:05Z,WS-114,T1059.001,powershell.exe -nop -w hidden -enc ...
+2026-09-14T08:06Z,WS-114,T1053.005,schtasks /create /tn OneDriveSync /sc onlogon
+2026-09-14T08:07Z,WS-114,T1071.001,HTTPS beacon to 203.0.113.80 every 60s
+2026-09-14T10:40Z,WS-114,T1003.001,rundll32 comsvcs.dll MiniDump of lsass.exe
+2026-09-14T11:15Z,FS-02,T1021.001,RDP logon from WS-114 as svc_backup
+2026-09-14T11:30Z,FS-02,T1560.001,7z a -p finance.7z D:\Finance
+2026-09-14T12:10Z,FS-02,T1567.002,finance.7z uploaded to storage.example.net
+2026-09-14T13:00Z,FS-02,T1486,files renamed to *.locked across the D: drive

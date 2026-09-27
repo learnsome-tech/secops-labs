@@ -1,0 +1,16 @@
+{
+  "type": "indicator",
+  "spec_version": "2.1",
+  "id": "indicator--c1f0b7a2-6d3e-4f58-8a1b-2e9d4c7f6b10",
+  "created": "2026-03-02T09:05:00.000Z",
+  "modified": "2026-03-02T09:05:00.000Z",
+  "name": "Crew Seven beacon domain",
+  "indicator_types": ["malicious-activity"],
+  "pattern": "[domain-name:value = 'update-check.example.net']",
+  "pattern_type": "stix",
+  "valid_from": "2026-03-02T00:00:00Z",
+  "valid_until": "2026-06-01T00:00:00Z",
+  "kill_chain_phases": [
+    {"kill_chain_name": "mitre-attack", "phase_name": "command-and-control"}
+  ]
+}

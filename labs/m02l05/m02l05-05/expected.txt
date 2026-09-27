@@ -1,0 +1,4 @@
+invoice_a.exe  Loader_XorStub  $mutex@0x48 $gate@0x71 $ps@0x85 $xor@0x40
+invoice_b.exe  Loader_XorStub  $mutex@0x70 $gate@0x99 $xor@0x40
+updater.exe    -               $xor@0x40
+gate_help.txt  -               $gate@0x20

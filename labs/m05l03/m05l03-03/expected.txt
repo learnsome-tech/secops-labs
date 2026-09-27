@@ -1,0 +1,4 @@
+08:51:58 powershell.exe 5388: child of WINWORD.EXE
+08:52:31 svchost.exe 6204: parent explorer.exe, expected services.exe
+08:52:33 lsass.exe 6310: parent explorer.exe, expected wininit.exe
+08:52:33 lsass.exe 6310: second copy, first is pid 644

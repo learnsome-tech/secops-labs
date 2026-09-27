@@ -1,0 +1,4 @@
+09:14:24 alert: 5 failures from 203.0.113.45
+203.0.113.45    peak 6 failure(s) in any 60s window
+198.51.100.23   peak 1 failure(s) in any 60s window
+192.0.2.77      peak 1 failure(s) in any 60s window

@@ -1,0 +1,2 @@
+"c:\program files\contoso\backup\agent.exe"
+%windir%\system32\securityhealthsystray.exe

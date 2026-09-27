@@ -1,0 +1,10 @@
+{
+  "policy": "P1 security incident",
+  "ack_target_minutes": 15,
+  "levels": [
+    {"level": 1, "notify": "tier2 primary on-call", "after_minutes": 0},
+    {"level": 2, "notify": "tier2 secondary on-call", "after_minutes": 15},
+    {"level": 3, "notify": "SOC manager", "after_minutes": 30},
+    {"level": 4, "notify": "head of security", "after_minutes": 45}
+  ]
+}

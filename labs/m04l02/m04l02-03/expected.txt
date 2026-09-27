@@ -1,0 +1,8 @@
+08:41:09 bastion01  root    from 203.0.113.50  Failed
+08:41:15 bastion01  deploy  from 203.0.113.50  Failed
+08:42:30 bastion01  deploy  from 203.0.113.50  Accepted
+08:51:47 app02      deploy  from bastion01     Accepted
+08:52:10 app03      deploy  from bastion01     Failed
+09:03:33 db01       backup  from app02         Accepted
+in scope: bastion01, app02, db01
+watch:    app03

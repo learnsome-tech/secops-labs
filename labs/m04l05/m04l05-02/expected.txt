@@ -1,0 +1,4 @@
+2 days, 6:07:20   until dlp: large export from db01 flagged
+0:50:00           until db-owner: isolation of db01 approved
+0:38:00           until tier1: alert acknowledged
+0:35:00           until tier2: sweep complete: three hosts

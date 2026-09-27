@@ -1,0 +1,4 @@
+account  today   mean    sd       z  static  baseline
+deploy     212  201.5   8.5     1.2  alert   quiet
+jsmith      31    3.6   1.2    22.4  quiet   alert
+backup       1    1.1   0.4    -0.4  quiet   quiet

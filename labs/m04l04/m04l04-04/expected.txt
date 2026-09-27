@@ -1,0 +1,5 @@
+  db01-image-0301: login shell for unexpected user sysupd
+  db01-image-0301: unexpected listener on port 4444
+  db01-image-0301: sshd -T lacks 'passwordauthentication no'
+db01-image-0301: fail, stays in quarantine
+db01-rebuilt: pass, move to the production security group

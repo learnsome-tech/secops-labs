@@ -1,0 +1,9 @@
+03-02 09:14  start    detection    impossible travel alert j.okafor
+03-02 09:31  forward  analysis     acknowledged; case IR-0142 opened
+03-02 10:05  forward  containment  j.okafor sessions revoked
+03-02 10:20  forward  eradication  rule and OAuth grant removed
+03-02 11:02  back     analysis     same IP signed in as m.reyes
+03-02 11:09  forward  containment  m.reyes sessions revoked
+03-02 11:40  forward  eradication  m.reyes mailbox clean
+03-02 12:15  forward  recovery     mailboxes back; MFA re-registered
+03-05 14:00  forward  lessons      review held; three actions raised

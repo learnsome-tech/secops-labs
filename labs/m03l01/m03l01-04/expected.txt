@@ -1,0 +1,10 @@
+08:02 T1566.001  initial-access
+08:05 T1204.002  execution
+08:05 T1059.001  execution
+08:06 T1053.005  execution, persistence, privilege-escalation
+08:07 T1071.001  command-and-control
+10:40 T1003.001  credential-access
+11:15 T1021.001  lateral-movement
+11:30 T1560.001  collection
+12:10 T1567.002  exfiltration
+13:00 T1486      impact

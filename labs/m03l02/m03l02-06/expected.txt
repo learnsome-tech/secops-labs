@@ -1,0 +1,2 @@
+alice@example.com  London-Singapore 10,848 km, 9,298 km/h, impossible travel
+bob@example.com    London-Paris 343 km, 86 km/h, plausible

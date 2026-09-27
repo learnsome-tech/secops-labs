@@ -1,0 +1,7 @@
+utc,released_by,received_by,action,sha256
+2026-03-02T09:14Z,,A. Mensah,seized at desk 4B; bag EB-7731,
+2026-03-02T10:02Z,A. Mensah,Store 2,logged in; seal EB-7731 intact,
+2026-03-02T13:30Z,Store 2,R. Osei,imaged via write blocker,36d94d69f8a28cc1
+2026-03-02T17:45Z,R. Osei,Store 2,resealed as EB-7732,36d94d69f8a28cc1
+2026-03-03T10:05Z,J. Lind,T. Adeyemi,copy made for analysis,36d94d69f8a28cc1
+2026-03-03T16:20Z,T. Adeyemi,Store 2,resealed as EB-7733,4be0c7d2e91a5f03

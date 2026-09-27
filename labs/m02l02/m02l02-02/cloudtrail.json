@@ -1,0 +1,19 @@
+{"Records": [
+ {
+  "eventVersion": "1.08",
+  "userIdentity": {"type": "IAMUser", "accountId": "111122223333",
+                   "userName": "jsmith"},
+  "eventTime": "2026-07-03T09:14:07Z",
+  "eventSource": "signin.amazonaws.com",
+  "eventName": "ConsoleLogin",
+  "awsRegion": "us-east-1",
+  "sourceIPAddress": "198.51.100.23",
+  "userAgent": "Mozilla/5.0 (X11; Linux x86_64)",
+  "errorMessage": "Failed authentication",
+  "requestParameters": null,
+  "responseElements": {"ConsoleLogin": "Failure"},
+  "additionalEventData": {"MobileVersion": "No", "MFAUsed": "No"},
+  "eventType": "AwsConsoleSignIn",
+  "recipientAccountId": "111122223333"
+ }
+]}

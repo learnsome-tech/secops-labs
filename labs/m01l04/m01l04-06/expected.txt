@@ -1,0 +1,5 @@
+02:10 level 1: page tier2 primary on-call
+02:25 level 2: page tier2 secondary on-call
+02:40 level 3: page SOC manager
+never paged: head of security
+02:47 acknowledged after 37 min, target 15 min: missed

@@ -1,0 +1,5 @@
+host    WS-114.corp.example.com
+created \OneDriveSync by svc_backup
+runs as SYSTEM HighestAvailable
+trigger LogonTrigger
+command powershell.exe -w hidden -File C:\Users\jo\AppData\sync.ps1

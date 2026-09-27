@@ -1,0 +1,14 @@
+time,phase,who,entry
+2026-02-27T22:40:19Z,adversary,203.0.113.50,j.okafor signs in
+2026-02-27T22:47:02Z,adversary,203.0.113.50,forward rule to example.org
+2026-03-01T08:03:55Z,adversary,203.0.113.50,m.reyes signs in
+2026-03-02T09:14:07Z,detection,siem,impossible travel alert j.okafor
+2026-03-02T09:31:40Z,analysis,tier1,acknowledged; case IR-0142 opened
+2026-03-02T09:52:03Z,analysis,tier2,forward rule confirmed
+2026-03-02T10:05:11Z,containment,tier2,j.okafor sessions revoked
+2026-03-02T10:20:45Z,eradication,tier2,rule and OAuth grant removed
+2026-03-02T11:02:30Z,analysis,hunt,same IP signed in as m.reyes
+2026-03-02T11:09:58Z,containment,tier2,m.reyes sessions revoked
+2026-03-02T11:40:12Z,eradication,tier2,m.reyes mailbox clean
+2026-03-02T12:15:00Z,recovery,itops,mailboxes back; MFA re-registered
+2026-03-05T14:00:00Z,lessons,ir-lead,review held; three actions raised

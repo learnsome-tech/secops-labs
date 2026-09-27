@@ -1,0 +1,6 @@
+Handoff at 19:00, 5 open cases
+IR-62 P2 breached -105 min m.reyes  Watch j.doe sign-ins until 21:00
+IR-61 P1 due soon   40 min a.okafor Chase IT: laptop isolation not confirmed
+IR-63 P2 on track   90 min a.okafor no next action written
+IR-65 P1 on track  200 min m.reyes  Sessions revoked; user not reached yet
+IR-64 P3 on track  785 min l.chen   Vendor ticket open for proxy log gap

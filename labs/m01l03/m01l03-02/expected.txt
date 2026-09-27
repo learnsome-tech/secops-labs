@@ -1,0 +1,4 @@
+auth.info       bastion.example.com sshd   Failed password for invalid user admi
+kern.warning    fw01.example.com    kernel DROP IN=eth0 OUT= SRC=203.0.113.9 DST
+authpriv.notice bastion.example.com sudo   j.doe : TTY=pts/1 ; PWD=/home/j.doe ;
+no header, stored raw: printer03 paper jam in tray 2

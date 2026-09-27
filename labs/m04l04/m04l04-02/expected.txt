@@ -1,0 +1,5 @@
+backups/db01-2026-03-02.sql  taken after the first attacker action, skip
+backups/db01-2026-03-01.sql  taken after the first attacker action, skip
+backups/db01-2026-02-28.sql  hash differs from catalogue, skip
+backups/db01-2026-02-27.sql  predates the attacker and is intact: restore
+changes since 2026-02-27T02:00:00Z must be replayed or re-entered

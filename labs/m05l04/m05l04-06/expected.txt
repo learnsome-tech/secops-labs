@@ -1,0 +1,5 @@
+08:52:14 WS-042 event 1  SHA256 match, image invoice_0342.exe
+08:52:14 WS-042 event 1  IMPHASH match, image invoice_0342.exe
+08:52:15 WS-042 event 22 QueryName match, image invoice_0342.exe
+09:30:05 WS-117 event 22 QueryName match, image rundll32.exe
+10:11:40 WS-203 event 1  IMPHASH match, image invoice_0343.exe

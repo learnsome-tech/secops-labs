@@ -1,0 +1,11 @@
+host,class,last_log
+dc01.corp.example.com,crown,2026-03-09T07:58
+dc02.corp.example.com,crown,2026-03-09T07:59
+sql-payroll.corp.example.com,crown,2026-03-07T19:12
+vpn-gw.corp.example.com,crown,2026-03-09T07:55
+fs01.corp.example.com,standard,2026-03-09T07:40
+web01.example.com,standard,2026-03-09T07:57
+web02.example.com,standard,2026-03-09T07:57
+print01.corp.example.com,standard,2026-03-02T09:30
+laptop-0142.corp.example.com,standard,2026-03-08T18:05
+laptop-0177.corp.example.com,standard,2026-03-09T07:21

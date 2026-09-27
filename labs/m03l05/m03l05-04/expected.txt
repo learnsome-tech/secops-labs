@@ -1,0 +1,4 @@
+7045 Contoso Backup Agent  in baseline
+13   SecurityHealth        in baseline
+13   OneDriveUpdate        new: \users\, \temp\
+7045 WinDefendUpdate       new: \programdata\, powershell, cmd.exe /c

@@ -1,0 +1,123 @@
+alert_id,rule,disposition
+A-7001,Shell spawned in container,benign_true_positive
+A-7002,Shell spawned in container,benign_true_positive
+A-7003,Impossible travel sign-in,false_positive
+A-7004,Impossible travel sign-in,benign_true_positive
+A-7005,Shell spawned in container,benign_true_positive
+A-7006,New member of Domain Admins,benign_true_positive
+A-7007,Password spray from one IP,true_positive
+A-7008,Password spray from one IP,true_positive
+A-7009,Shell spawned in container,benign_true_positive
+A-7010,Office app spawns PowerShell,false_positive
+A-7011,Shell spawned in container,true_positive
+A-7012,Shell spawned in container,false_positive
+A-7013,New member of Domain Admins,benign_true_positive
+A-7014,Impossible travel sign-in,false_positive
+A-7015,Shell spawned in container,benign_true_positive
+A-7016,Office app spawns PowerShell,true_positive
+A-7017,New member of Domain Admins,benign_true_positive
+A-7018,Shell spawned in container,false_positive
+A-7019,Shell spawned in container,benign_true_positive
+A-7020,Impossible travel sign-in,benign_true_positive
+A-7021,Shell spawned in container,benign_true_positive
+A-7022,Impossible travel sign-in,false_positive
+A-7023,Impossible travel sign-in,benign_true_positive
+A-7024,Shell spawned in container,benign_true_positive
+A-7025,Shell spawned in container,benign_true_positive
+A-7026,Impossible travel sign-in,false_positive
+A-7027,Shell spawned in container,false_positive
+A-7028,Impossible travel sign-in,false_positive
+A-7029,Password spray from one IP,false_positive
+A-7030,Shell spawned in container,benign_true_positive
+A-7031,Shell spawned in container,benign_true_positive
+A-7032,Shell spawned in container,benign_true_positive
+A-7033,Shell spawned in container,benign_true_positive
+A-7034,Shell spawned in container,benign_true_positive
+A-7035,Impossible travel sign-in,false_positive
+A-7036,Impossible travel sign-in,false_positive
+A-7037,Office app spawns PowerShell,true_positive
+A-7038,Password spray from one IP,false_positive
+A-7039,Shell spawned in container,benign_true_positive
+A-7040,Impossible travel sign-in,false_positive
+A-7041,Shell spawned in container,benign_true_positive
+A-7042,Password spray from one IP,false_positive
+A-7043,Password spray from one IP,true_positive
+A-7044,Shell spawned in container,benign_true_positive
+A-7045,Impossible travel sign-in,false_positive
+A-7046,Impossible travel sign-in,false_positive
+A-7047,Shell spawned in container,benign_true_positive
+A-7048,Shell spawned in container,benign_true_positive
+A-7049,Shell spawned in container,benign_true_positive
+A-7050,Impossible travel sign-in,true_positive
+A-7051,Shell spawned in container,benign_true_positive
+A-7052,Impossible travel sign-in,false_positive
+A-7053,Shell spawned in container,false_positive
+A-7054,Shell spawned in container,benign_true_positive
+A-7055,Shell spawned in container,benign_true_positive
+A-7056,New member of Domain Admins,benign_true_positive
+A-7057,Impossible travel sign-in,false_positive
+A-7058,Impossible travel sign-in,false_positive
+A-7059,Office app spawns PowerShell,false_positive
+A-7060,Impossible travel sign-in,false_positive
+A-7061,Shell spawned in container,benign_true_positive
+A-7062,Impossible travel sign-in,false_positive
+A-7063,Impossible travel sign-in,false_positive
+A-7064,Impossible travel sign-in,true_positive
+A-7065,Shell spawned in container,benign_true_positive
+A-7066,New member of Domain Admins,benign_true_positive
+A-7067,Impossible travel sign-in,benign_true_positive
+A-7068,Shell spawned in container,benign_true_positive
+A-7069,Impossible travel sign-in,false_positive
+A-7070,New member of Domain Admins,benign_true_positive
+A-7071,Password spray from one IP,false_positive
+A-7072,Shell spawned in container,benign_true_positive
+A-7073,Shell spawned in container,benign_true_positive
+A-7074,Shell spawned in container,benign_true_positive
+A-7075,Shell spawned in container,benign_true_positive
+A-7076,Impossible travel sign-in,false_positive
+A-7077,Shell spawned in container,benign_true_positive
+A-7078,Impossible travel sign-in,false_positive
+A-7079,New member of Domain Admins,benign_true_positive
+A-7080,Impossible travel sign-in,false_positive
+A-7081,Shell spawned in container,benign_true_positive
+A-7082,New member of Domain Admins,benign_true_positive
+A-7083,Shell spawned in container,benign_true_positive
+A-7084,Shell spawned in container,benign_true_positive
+A-7085,Impossible travel sign-in,false_positive
+A-7086,Shell spawned in container,benign_true_positive
+A-7087,New member of Domain Admins,true_positive
+A-7088,Office app spawns PowerShell,true_positive
+A-7089,Office app spawns PowerShell,true_positive
+A-7090,Impossible travel sign-in,false_positive
+A-7091,Impossible travel sign-in,false_positive
+A-7092,New member of Domain Admins,benign_true_positive
+A-7093,Password spray from one IP,false_positive
+A-7094,Impossible travel sign-in,false_positive
+A-7095,Impossible travel sign-in,false_positive
+A-7096,Shell spawned in container,benign_true_positive
+A-7097,Shell spawned in container,benign_true_positive
+A-7098,Impossible travel sign-in,false_positive
+A-7099,Password spray from one IP,false_positive
+A-7100,Shell spawned in container,false_positive
+A-7101,Impossible travel sign-in,false_positive
+A-7102,New member of Domain Admins,benign_true_positive
+A-7103,Shell spawned in container,benign_true_positive
+A-7104,Shell spawned in container,benign_true_positive
+A-7105,Shell spawned in container,false_positive
+A-7106,Shell spawned in container,false_positive
+A-7107,Shell spawned in container,benign_true_positive
+A-7108,Shell spawned in container,benign_true_positive
+A-7109,Shell spawned in container,benign_true_positive
+A-7110,Impossible travel sign-in,benign_true_positive
+A-7111,Shell spawned in container,benign_true_positive
+A-7112,Impossible travel sign-in,false_positive
+A-7113,Shell spawned in container,benign_true_positive
+A-7114,Shell spawned in container,benign_true_positive
+A-7115,Impossible travel sign-in,false_positive
+A-7116,New member of Domain Admins,benign_true_positive
+A-7117,Shell spawned in container,benign_true_positive
+A-7118,Shell spawned in container,benign_true_positive
+A-7119,Impossible travel sign-in,false_positive
+A-7120,Shell spawned in container,false_positive
+A-7121,Shell spawned in container,benign_true_positive
+A-7122,Shell spawned in container,benign_true_positive

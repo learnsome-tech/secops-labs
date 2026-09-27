@@ -1,0 +1,6 @@
+rule                           fired  true benign false precision queue
+Shell spawned in container        58     1     49     8        2%   48%
+Impossible travel sign-in         37     2      5    30        5%   30%
+New member of Domain Admins       12     1     11     0        8%   10%
+Password spray from one IP         9     3      0     6       33%    7%
+Office app spawns PowerShell       6     4      0     2       67%    5%

@@ -1,0 +1,14 @@
+Mar  3 09:14:02 bastion sshd[4410]: Failed password for invalid user admin from 203.0.113.45 port 50122 ssh2
+Mar  3 09:14:07 bastion sshd[4412]: Failed password for root from 203.0.113.45 port 50130 ssh2
+Mar  3 09:14:13 bastion sshd[4415]: Failed password for invalid user oracle from 203.0.113.45 port 50141 ssh2
+Mar  3 09:14:18 bastion sshd[4417]: Failed password for invalid user test from 203.0.113.45 port 50150 ssh2
+Mar  3 09:14:24 bastion sshd[4420]: Failed password for deploy from 203.0.113.45 port 50163 ssh2
+Mar  3 09:14:31 bastion sshd[4423]: Failed password for deploy from 203.0.113.45 port 50170 ssh2
+Mar  3 09:15:10 bastion sshd[4431]: Accepted password for deploy from 203.0.113.45 port 50188 ssh2
+Mar  3 09:20:11 bastion sshd[4502]: Failed password for jsmith from 198.51.100.23 port 61022 ssh2
+Mar  3 09:20:19 bastion sshd[4502]: Accepted password for jsmith from 198.51.100.23 port 61022 ssh2
+Mar  3 09:30:00 bastion sshd[4610]: Failed password for backup from 192.0.2.77 port 40010 ssh2
+Mar  3 09:31:30 bastion sshd[4622]: Failed password for backup from 192.0.2.77 port 40188 ssh2
+Mar  3 09:33:00 bastion sshd[4637]: Failed password for backup from 192.0.2.77 port 40377 ssh2
+Mar  3 09:34:30 bastion sshd[4651]: Failed password for backup from 192.0.2.77 port 40519 ssh2
+Mar  3 09:36:00 bastion sshd[4668]: Accepted password for backup from 192.0.2.77 port 40702 ssh2

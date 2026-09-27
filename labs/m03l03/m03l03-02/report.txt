@@ -1,0 +1,15 @@
+Threat note: loader campaign against finance teams. TLP:CLEAR.
+
+The lure is an ISO attachment. The shortcut inside runs PowerShell, which
+fetches stage two from hxxps://cdn-update[.]example[.]net/api/v2/check
+and falls back to 198.51.100[.]23 on port 8443. Stage two then beacons
+to update-check[.]example[.]org every 60 seconds.
+
+Dropper SHA-256:
+d6d0c8eb4047d89cbc0522c87591e36924ad86be3f9f98ed8fffed8ab3bea1dc
+Stage two MD5: ba6b4fe0fe4d2a8e6381ed572a74e248
+
+The operators staged tools on an internal share at 10.20.30.40 and tested
+connectivity against 127.0.0.1. Staff were phished at corp.example.com.
+The sandbox also recorded a dropped file with SHA-256
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855

@@ -1,0 +1,13 @@
+time,who,entry
+2026-02-27T22:31:05Z,attacker,first failed ssh password on bastion01
+2026-02-27T22:40:19Z,attacker,ssh login as deploy on bastion01
+2026-02-28T03:12:40Z,attacker,key and cron job planted on db01
+2026-03-02T09:20:00Z,dlp,large export from db01 flagged
+2026-03-02T09:58:00Z,tier1,alert acknowledged
+2026-03-02T10:08:00Z,tier2,incident IR-0157 declared at severity one
+2026-03-02T10:10:00Z,tier2,asked db owner to approve isolating db01
+2026-03-02T11:00:00Z,db-owner,isolation of db01 approved
+2026-03-02T11:04:00Z,tier2,db01 isolated
+2026-03-02T11:30:00Z,tier2,sessions revoked; deploy and backup rotated
+2026-03-02T12:05:00Z,tier2,sweep complete: three hosts
+2026-03-02T12:30:00Z,ir-lead,coordinated eradication complete

@@ -1,0 +1,4 @@
+time to detect       mean  1592 min  median   32 min
+time to acknowledge  mean    24 min  median   10 min
+time to contain      mean   161 min  median  144 min
+slowest detection: IR-44 found by intel

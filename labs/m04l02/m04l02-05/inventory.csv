@@ -1,0 +1,5 @@
+host,ip,role,data,critical
+bastion01,192.0.2.10,ssh jump host,none,no
+app02,192.0.2.21,billing api,proprietary,yes
+app03,192.0.2.22,billing api,proprietary,yes
+db01,192.0.2.30,customer database,personal,yes

@@ -1,0 +1,5 @@
+sample         sha256 IOC   exact bytes  any string   loader rule
+invoice_a.exe  hit          hit          hit          hit
+invoice_b.exe  -            -            hit          hit
+updater.exe    -            -            hit          -
+gate_help.txt  -            -            hit          -

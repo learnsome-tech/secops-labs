@@ -1,0 +1,4 @@
+Jul  3 10:13:58 bastion sshd[7120]: Failed password for jsmith from 198.51.100.23 port 61022 ssh2
+Jul  3 10:14:03 bastion sshd[7120]: Failed password for jsmith from 198.51.100.23 port 61022 ssh2
+Jul  3 10:14:06 bastion sshd[7120]: Connection closed by authenticating user jsmith 198.51.100.23 port 61022 [preauth]
+Jul  3 10:15:02 bastion sshd[7140]: Accepted publickey for deploy from 192.0.2.10 port 40022 ssh2: ED25519 SHA256:Zm9yLWV4YW1wbGUtb25seS1ub3QtYS1yZWFsLWtleQ

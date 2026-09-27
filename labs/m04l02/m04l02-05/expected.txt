@@ -1,0 +1,4 @@
+first report: 1 hosts, data none, 0 critical
+  SEV3, notify SOC lead
+after scoping: 3 hosts, data personal, 2 critical
+  SEV1, notify IC, CISO, legal, DPO, comms lead

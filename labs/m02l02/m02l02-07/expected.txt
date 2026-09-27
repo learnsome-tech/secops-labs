@@ -1,0 +1,2 @@
+assumed UTC    sshd 2026-07-03T10:13:58Z  console 2026-07-03T09:14:07Z  gap -3591s
+Europe/London  sshd 2026-07-03T09:13:58Z  console 2026-07-03T09:14:07Z  gap +9s

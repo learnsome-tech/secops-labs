@@ -1,0 +1,15 @@
+# Quarantine for app02. 192.0.2.5 = IR workstation, 192.0.2.6 = EDR relay
+table inet quarantine {
+  chain input {
+    type filter hook input priority -10; policy drop;
+    iif "lo" accept
+    ip saddr 192.0.2.5 tcp dport 22 accept
+    ip saddr 192.0.2.6 tcp sport 443 ct state established accept
+  }
+  chain output {
+    type filter hook output priority -10; policy drop;
+    oif "lo" accept
+    ip daddr 192.0.2.5 tcp sport 22 ct state established accept
+    ip daddr 192.0.2.6 tcp dport 443 accept
+  }
+}

@@ -1,0 +1,5 @@
+dwell before alert     2 days, 10:33:48
+alert to triage        0:17:33
+alert to first contain 0:51:04
+alert to all contained 1:55:51
+alert to recovered     3:00:53

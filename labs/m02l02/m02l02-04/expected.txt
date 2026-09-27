@@ -1,0 +1,8 @@
+@timestamp       2026-07-03T09:14:07Z
+event.category   authentication
+event.provider   signin.amazonaws.com
+event.outcome    failure
+event.reason     Failed authentication
+user.name        jsmith
+source.ip        198.51.100.23
+cloud.account.id 111122223333

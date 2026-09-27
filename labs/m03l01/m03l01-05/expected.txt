@@ -1,0 +1,7 @@
+Reconnaissance        0  no evidence
+Weaponization         0  no evidence
+Delivery              1  08:02 to 08:02
+Exploitation          3  08:05 to 08:06
+Installation          1  08:06 to 08:06
+Command and Control   1  08:07 to 08:07
+Actions on Objectives 6  08:06 to 13:00

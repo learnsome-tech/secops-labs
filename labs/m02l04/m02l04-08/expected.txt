@@ -1,0 +1,4 @@
+09:52:10 get    secrets/payments/db-creds      system:serviceaccount:ci:deployer 203.0.113.9 curl/8.5.0 allow 200
+09:52:14 list   secrets/kube-system            system:serviceaccount:ci:deployer 203.0.113.9 curl/8.5.0 forbid 403
+09:52:31 get    nodes                          system:serviceaccount:ci:deployer 203.0.113.9 curl/8.5.0 forbid 403
+09:53:02 create pods/exec/payments/api-7d9f    jsmith@example.com 198.51.100.23 kubectl/v1.34.1 allow 101

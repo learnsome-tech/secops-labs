@@ -1,0 +1,7 @@
+@timestamp      2026-07-03T09:13:58Z
+event.category  authentication
+event.provider  sshd
+event.outcome   failure
+user.name       jsmith
+source.ip       198.51.100.23
+host.name       bastion

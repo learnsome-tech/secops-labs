@@ -1,0 +1,5 @@
+terms stored for the address: ['0', '113', '203', '9']
+search: "203.0.113.9" AND accepted
+   bastion Accepted password for j.doe from 203.0.113.9 port 51102 ssh2
+search: shadow
+   bastion D=/home/j.doe ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow

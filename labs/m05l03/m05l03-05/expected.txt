@@ -1,0 +1,6 @@
+svchost.exe 6204 0x7ff6b2d40000 PAGE_EXECUTE_READWRITE
+   MZ and PE header, machine 0x8664: a whole program
+powershell.exe 5388 0x1c2a0000 PAGE_EXECUTE_READWRITE
+   no header: JIT output or shellcode, needs context
+rundll32.exe 5460 0x2b0000 PAGE_EXECUTE_READWRITE
+   opens with cld; and rsp,-16: a common x64 shellcode stub

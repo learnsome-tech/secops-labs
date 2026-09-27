@@ -1,0 +1,22 @@
+# Security Operations & Threat Hunting (SOC) — lesson m01l04 — SOC Runbooks, Shift Handoffs & Escalation Paths
+# https://learnsome.tech/courses/secops-course/watch?lesson=m01l04
+# © LearnSome.tech
+id: RB-017
+name: MFA push fatigue - repeated denials, then an approval
+trigger: SIEM rule "MFA push fatigue" on any workforce account
+owner: detection-engineering@example.com
+last_reviewed: 2026-02-10
+steps:
+  - Check the sign-in: source address, device, country and app
+  - Call the user on the number in the HR system, not the one in the alert
+  - If the user did not approve, revoke all sessions and reset MFA
+  - Record call time, the user's answer and sessions revoked in the case
+escalate:
+  - when: user did not approve, or is unreachable after 15 minutes
+    to: tier2 on-call
+  - when: account holds admin rights anywhere
+    to: incident manager, immediately
+close_as:
+  true_positive: user did not approve the push
+  benign_true_positive: user approved their own sign-in
+  false_positive: denials came from a broken client retrying

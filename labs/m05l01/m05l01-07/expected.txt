@@ -1,0 +1,3 @@
+row 5: released by J. Lind, but the last recorded holder is Store 2
+row 6: hash 4be0c7d2e91a5f03 does not match acquisition
+6 entries checked, item now held by Store 2

@@ -1,0 +1,22 @@
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" />
+    <EventID>4698</EventID>
+    <TimeCreated SystemTime="2026-09-14T08:06:12.4471234Z" />
+    <Computer>WS-114.corp.example.com</Computer>
+  </System>
+  <EventData>
+    <Data Name="SubjectUserName">svc_backup</Data>
+    <Data Name="TaskName">\OneDriveSync</Data>
+    <Data Name="TaskContent">&lt;Task version="1.2"
+ xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task"&gt;
+&lt;Triggers&gt;&lt;LogonTrigger /&gt;&lt;/Triggers&gt;
+&lt;Principals&gt;&lt;Principal id="Author"&gt;
+&lt;UserId&gt;S-1-5-18&lt;/UserId&gt;
+&lt;RunLevel&gt;HighestAvailable&lt;/RunLevel&gt;
+&lt;/Principal&gt;&lt;/Principals&gt;&lt;Actions&gt;&lt;Exec&gt;
+&lt;Command&gt;powershell.exe&lt;/Command&gt;
+&lt;Arguments&gt;-w hidden -File C:\Users\jo\AppData\sync.ps1&lt;/Arguments&gt;
+&lt;/Exec&gt;&lt;/Actions&gt;&lt;/Task&gt;</Data>
+  </EventData>
+</Event>

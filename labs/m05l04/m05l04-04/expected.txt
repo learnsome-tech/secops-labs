@@ -1,0 +1,4 @@
+KERNEL32.dll OpenProcess VirtualAllocEx WriteProcessMemory CreateRemoteThread Sleep
+WININET.dll InternetOpenA InternetOpenUrlA InternetReadFile
+ADVAPI32.dll RegSetValueExW
+imphash 82a7041495e66185c753f958d7a33f65

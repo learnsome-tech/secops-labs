@@ -1,0 +1,3 @@
+08:14 192.0.2.44 update-check.example.net: command-and-control, Example Crew Seven ['crime-syndicate'] personal-gain
+08:20 192.0.2.61 198.51.100.23: indicator expired, ignored
+09:47 192.0.2.52 drop.leak-front.example.org: exfiltration, Example Leak Front ['activist'] ideology

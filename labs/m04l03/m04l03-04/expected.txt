@@ -1,0 +1,5 @@
+stolen token replayed    accepted: access token for j.okafor
+after password reset     accepted: access token for j.okafor
+after revoking sessions  rejected: issued before sessions were revoked
+user signs in again      accepted: access token for j.okafor
+new date, old signature  rejected: bad signature

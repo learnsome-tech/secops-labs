@@ -1,0 +1,7 @@
+16 ASCII and 3 UTF-16 strings
+url        https://cdn.example.com/update/p.bin
+ipv4       198.51.100.23
+user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+run key    Software\Microsoft\Windows\CurrentVersion\Run
+mutex      Global\mtx-7f3a9c01
+drop path  %APPDATA%\Microsoft\updsvc.exe

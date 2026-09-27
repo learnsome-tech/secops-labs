@@ -1,0 +1,4 @@
+bytes acquired: 1048576 in 16 blocks
+md5    97db13b125aac2e5ba659f1adea1a9bf
+sha256 36d94d69f8a28cc1972bb5336f12f135a27aa8e3c0341fa8992f86a5dda4e05b
+image re-hash matches acquisition: True

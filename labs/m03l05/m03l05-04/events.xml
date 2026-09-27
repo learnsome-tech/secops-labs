@@ -1,0 +1,18 @@
+<Events>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System><Provider Name="Service Control Manager" /><EventID Qualifiers="16384">7045</EventID><TimeCreated SystemTime="2026-09-02T10:15:00.0000000Z" /><Channel>System</Channel><Computer>FS-02.corp.example.com</Computer></System>
+ <EventData><Data Name="ServiceName">Contoso Backup Agent</Data><Data Name="ImagePath">"C:\Program Files\Contoso\Backup\agent.exe"</Data><Data Name="ServiceType">user mode service</Data><Data Name="StartType">auto start</Data><Data Name="AccountName">LocalSystem</Data></EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System><Provider Name="Microsoft-Windows-Sysmon" /><EventID>13</EventID><TimeCreated SystemTime="2026-09-10T07:58:03.2210000Z" /><Channel>Microsoft-Windows-Sysmon/Operational</Channel><Computer>WS-114.corp.example.com</Computer></System>
+ <EventData><Data Name="RuleName">technique_id=T1547.001</Data><Data Name="EventType">SetValue</Data><Data Name="UtcTime">2026-09-10 07:58:03.221</Data><Data Name="Image">C:\Windows\explorer.exe</Data><Data Name="TargetObject">HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\SecurityHealth</Data><Data Name="Details">%windir%\system32\SecurityHealthSystray.exe</Data><Data Name="User">NT AUTHORITY\SYSTEM</Data></EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System><Provider Name="Microsoft-Windows-Sysmon" /><EventID>13</EventID><TimeCreated SystemTime="2026-09-14T08:06:40.1120000Z" /><Channel>Microsoft-Windows-Sysmon/Operational</Channel><Computer>WS-114.corp.example.com</Computer></System>
+ <EventData><Data Name="RuleName">technique_id=T1547.001</Data><Data Name="EventType">SetValue</Data><Data Name="UtcTime">2026-09-14 08:06:40.112</Data><Data Name="Image">C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe</Data><Data Name="TargetObject">HKU\S-1-5-21-1004336348-1177238915-682003330-1104\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\OneDriveUpdate</Data><Data Name="Details">C:\Users\jo\AppData\Local\Temp\odu.exe</Data><Data Name="User">CORP\jo</Data></EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System><Provider Name="Service Control Manager" /><EventID Qualifiers="16384">7045</EventID><TimeCreated SystemTime="2026-09-14T11:17:31.0000000Z" /><Channel>System</Channel><Computer>FS-02.corp.example.com</Computer></System>
+ <EventData><Data Name="ServiceName">WinDefendUpdate</Data><Data Name="ImagePath">cmd.exe /c powershell -w hidden -File C:\ProgramData\wdu.ps1</Data><Data Name="ServiceType">user mode service</Data><Data Name="StartType">auto start</Data><Data Name="AccountName">LocalSystem</Data></EventData>
+</Event>
+</Events>

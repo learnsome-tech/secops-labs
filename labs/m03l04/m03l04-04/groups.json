@@ -1,0 +1,22 @@
+{
+ "G0016": {
+  "name": "APT29",
+  "aliases": [
+   "Cozy Bear",
+   "The Dukes",
+   "NOBELIUM",
+   "Midnight Blizzard",
+   "UNC2452"
+  ]
+ },
+ "G0007": {
+  "name": "APT28",
+  "aliases": [
+   "Fancy Bear",
+   "Sofacy",
+   "STRONTIUM",
+   "Forest Blizzard",
+   "Pawn Storm"
+  ]
+ }
+}

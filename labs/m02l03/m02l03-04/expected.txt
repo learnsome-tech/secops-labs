@@ -1,0 +1,5 @@
+alert WINWORD.EXE  powershell.exe -nop -w hidden -enc dwBoAG8AYQBtAGkA
+-     CcmExec.exe  powershell.exe -NoProfile -enc RwBlAHQALQBQAHIAbwBjAGUAcwBzAA==
+alert cmd.exe      pwsh.exe -EncodedCommand dwBoAG8AYQBtAGkA
+-     explorer.exe powershell.exe -ExecutionPolicy Bypass -File C:\Scripts\backup.ps1
+-     WINWORD.EXE  powershell.exe -w hidden -ec dwBoAG8AYQBtAGkA

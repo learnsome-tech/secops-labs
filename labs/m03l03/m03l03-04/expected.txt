@@ -1,0 +1,7 @@
+proxy 192.0.2.50 cdn-update.example.net matched cdn-update.example.net
+proxy 192.0.2.50 update-check.example.org matched update-check.example.org
+proxy 192.0.2.77 portal.corp.example.com matched corp.example.com
+proxy 192.0.2.64 198.51.100.23 matched 198.51.100.23
+file  WS-114 C:\Users\jo\Downloads\invoice_0914.lnk 2331 bytes
+file  WS-114 C:\Users\jo\AppData\Local\Temp\~DF3A1.tmp 0 bytes
+file  WS-120 C:\ProgramData\Backup\sync.lock 0 bytes

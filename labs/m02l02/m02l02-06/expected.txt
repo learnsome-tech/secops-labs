@@ -1,0 +1,8 @@
+field                  sshd                   cloudtrail
+class_uid              3002                   3002
+activity_id            1                      1
+status_id              2                      2
+time                   1783070038000          1783070047000
+user.name              jsmith                 jsmith
+src_endpoint.ip        198.51.100.23          198.51.100.23
+metadata.product.name  sshd                   signin.amazonaws.com
