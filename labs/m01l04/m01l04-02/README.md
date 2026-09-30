@@ -26,6 +26,9 @@ In the lesson: Here is a real one, for M F A push fatigue: an attacker with a st
    - Line 8: Contact details in the alert may belong to the attacker
 4. Edit `rb-017-mfa-fatigue.yaml` and check it: `yamllint rb-017-mfa-fatigue.yaml`.
 5. Check it from the repository root: `./check m01l04-02`.
+6. The site offers these commands for this lab; the first is the default, and the only one graded. Run another with `./check m01l04-02 --command=<id>`:
+   - `lint` (Lint): `yamllint -d relaxed rb-017-mfa-fatigue.yaml`
+   - `strict` (Lint strictly): `yamllint rb-017-mfa-fatigue.yaml`
 
 ## How to check
 

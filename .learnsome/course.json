@@ -128,5 +128,35 @@
         "storageclass-storage-v1.json"
       ]
     ]
+  },
+  "toolCommands": {
+    "terraform": [
+      "init",
+      "validate",
+      "plan",
+      "apply",
+      "fmt",
+      "output"
+    ],
+    "ansible": [
+      "syntax-check",
+      "list-tasks",
+      "list-hosts"
+    ],
+    "kubeconform": [
+      "validate",
+      "verbose"
+    ],
+    "hadolint": [
+      "lint",
+      "strict"
+    ],
+    "yamllint": [
+      "lint",
+      "strict"
+    ],
+    "actionlint": [
+      "lint"
+    ]
   }
 }

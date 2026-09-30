@@ -27,6 +27,9 @@ In the lesson: Here is a policy file in that shape. Omit stages drops the reques
    - Line 7: Never Request level for secrets: bodies hold the values
 4. Edit `audit-policy.yaml` and check it: `kubeconform -strict -summary audit-policy.yaml`.
 5. Check it from the repository root: `./check m02l04-07`.
+6. The site offers these commands for this lab; the first is the default, and the only one graded. Run another with `./check m02l04-07 --command=<id>`:
+   - `validate` (Validate): `kubeconform -strict -summary audit-policy.yaml`
+   - `verbose` (Validate each resource): `kubeconform -strict -verbose -summary audit-policy.yaml`
 
 ## How to check
 

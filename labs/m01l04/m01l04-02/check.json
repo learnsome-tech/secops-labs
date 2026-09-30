@@ -15,5 +15,18 @@
   "requires": [
     "yamllint"
   ],
+  "tool": "yamllint",
+  "commands": [
+    {
+      "id": "lint",
+      "label": "Lint",
+      "line": "yamllint -d relaxed rb-017-mfa-fatigue.yaml"
+    },
+    {
+      "id": "strict",
+      "label": "Lint strictly",
+      "line": "yamllint rb-017-mfa-fatigue.yaml"
+    }
+  ],
   "note": null
 }

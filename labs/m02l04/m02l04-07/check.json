@@ -15,5 +15,18 @@
   "requires": [
     "kubeconform"
   ],
+  "tool": "kubeconform",
+  "commands": [
+    {
+      "id": "validate",
+      "label": "Validate",
+      "line": "kubeconform -strict -summary audit-policy.yaml"
+    },
+    {
+      "id": "verbose",
+      "label": "Validate each resource",
+      "line": "kubeconform -strict -verbose -summary audit-policy.yaml"
+    }
+  ],
   "note": null
 }

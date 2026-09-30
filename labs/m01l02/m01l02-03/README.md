@@ -23,6 +23,9 @@ In the lesson: Take the noisiest rule. This is its source, written for Falco, th
    - Lines 12–16: at the bottom is the tuning
 3. Edit `shell_in_container.yaml` and check it: `yamllint shell_in_container.yaml`.
 4. Check it from the repository root: `./check m01l02-03`.
+5. The site offers these commands for this lab; the first is the default, and the only one graded. Run another with `./check m01l02-03 --command=<id>`:
+   - `lint` (Lint): `yamllint -d relaxed shell_in_container.yaml`
+   - `strict` (Lint strictly): `yamllint shell_in_container.yaml`
 
 ## How to check
 

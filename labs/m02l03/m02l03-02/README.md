@@ -27,6 +27,9 @@ In the lesson: Here is a real Sigma rule. The top is metadata a reviewer reads: 
    - Line 19: filter_ removes a known benign parent
 4. Edit `rule.yml` and check it: `yamllint rule.yml`.
 5. Check it from the repository root: `./check m02l03-02`.
+6. The site offers these commands for this lab; the first is the default, and the only one graded. Run another with `./check m02l03-02 --command=<id>`:
+   - `lint` (Lint): `yamllint -d relaxed rule.yml`
+   - `strict` (Lint strictly): `yamllint rule.yml`
 
 ## How to check
 
