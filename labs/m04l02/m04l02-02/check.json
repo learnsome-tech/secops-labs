@@ -1,0 +1,17 @@
+{
+  "lab": "m04l02-02",
+  "lesson": "m04l02",
+  "title": "The asset inventory scoping depends on",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "inventory.csv",
+  "files": [
+    "inventory.csv"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

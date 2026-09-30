@@ -1,0 +1,26 @@
+{
+  "lab": "m04l03-05",
+  "lesson": "m04l03",
+  "title": "Sweep every host before removing anything",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash sweep.sh",
+  "main": "sweep.sh",
+  "files": [
+    "command.txt",
+    "hosts/app02/etc/systemd/system/dbus-helper.service",
+    "hosts/app02/home/deploy/.ssh/authorized_keys",
+    "hosts/bastion01/home/deploy/.ssh/authorized_keys",
+    "hosts/bastion01/home/ops/.ssh/authorized_keys",
+    "hosts/db01/home/backup/.ssh/authorized_keys",
+    "hosts/db01/var/spool/cron/crontabs/backup",
+    "sweep.sh"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

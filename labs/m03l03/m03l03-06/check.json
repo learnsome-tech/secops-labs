@@ -1,0 +1,20 @@
+{
+  "lab": "m03l03-06",
+  "lesson": "m03l03",
+  "title": "Ageing and filtering a feed before use",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 feed_filter.py",
+  "main": "feed_filter.py",
+  "files": [
+    "feed.csv",
+    "feed_filter.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

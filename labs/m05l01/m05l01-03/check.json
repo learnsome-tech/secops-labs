@@ -1,0 +1,20 @@
+{
+  "lab": "m05l01-03",
+  "lesson": "m05l01",
+  "title": "Acquire an image and hash it in the same pass",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 image.py",
+  "main": "image.py",
+  "files": [
+    "image.py",
+    "make_disk.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

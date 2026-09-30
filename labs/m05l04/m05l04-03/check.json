@@ -1,0 +1,20 @@
+{
+  "lab": "m05l04-03",
+  "lesson": "m05l04",
+  "title": "Strings in both encodings",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 strings.py",
+  "main": "strings.py",
+  "files": [
+    "build_sample.py",
+    "strings.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

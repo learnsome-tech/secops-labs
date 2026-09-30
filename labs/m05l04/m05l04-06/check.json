@@ -1,0 +1,21 @@
+{
+  "lab": "m05l04-06",
+  "lesson": "m05l04",
+  "title": "Sweeping endpoint logs for the sample's indicators",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 sweep.py",
+  "main": "sweep.py",
+  "files": [
+    "build_sample.py",
+    "sweep.py",
+    "sysmon.xml"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

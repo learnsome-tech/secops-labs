@@ -1,0 +1,23 @@
+{
+  "lab": "m02l02-06",
+  "lesson": "m02l02",
+  "title": "Translate ECS fields into an OCSF Authentication event",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 to_ocsf.py",
+  "main": "to_ocsf.py",
+  "files": [
+    "auth.log",
+    "cloudtrail.json",
+    "sshd_to_ecs.py",
+    "to_ocsf.py",
+    "trail_to_ecs.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

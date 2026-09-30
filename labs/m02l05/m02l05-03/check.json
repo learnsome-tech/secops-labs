@@ -1,0 +1,19 @@
+{
+  "lab": "m02l05-03",
+  "lesson": "m02l05",
+  "title": "Build four sample files to scan",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 make_samples.py",
+  "main": "make_samples.py",
+  "files": [
+    "make_samples.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

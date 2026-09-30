@@ -1,0 +1,23 @@
+{
+  "lab": "m02l02-07",
+  "lesson": "m02l02",
+  "title": "The time zone bug that breaks correlation",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 tz_bug.py",
+  "main": "tz_bug.py",
+  "files": [
+    "auth.log",
+    "cloudtrail.json",
+    "sshd_to_ecs.py",
+    "trail_to_ecs.py",
+    "tz_bug.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

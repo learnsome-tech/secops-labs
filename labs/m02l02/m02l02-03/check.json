@@ -1,0 +1,21 @@
+{
+  "lab": "m02l02-03",
+  "lesson": "m02l02",
+  "title": "Extract sshd fields into ECS names",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 sshd_to_ecs.py",
+  "main": "sshd_to_ecs.py",
+  "files": [
+    "auth.log",
+    "cloudtrail.json",
+    "sshd_to_ecs.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

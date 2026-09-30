@@ -1,0 +1,19 @@
+{
+  "lab": "m02l04-07",
+  "lesson": "m02l04",
+  "title": "An audit policy that protects secrets and records exec",
+  "mode": "checker",
+  "runner": "kubeconform",
+  "command": "kubeconform -strict -summary audit-policy.yaml",
+  "main": "audit-policy.yaml",
+  "files": [
+    "audit-policy.yaml"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "kubeconform"
+  ],
+  "note": null
+}

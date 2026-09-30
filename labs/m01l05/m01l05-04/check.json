@@ -1,0 +1,21 @@
+{
+  "lab": "m01l05-04",
+  "lesson": "m01l05",
+  "title": "Polling a TAXII collection, page by page",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 taxii_poll.py",
+  "main": "taxii_poll.py",
+  "files": [
+    "intel_bundle.json",
+    "taxii_poll.py",
+    "taxii_server.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

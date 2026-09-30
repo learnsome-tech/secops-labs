@@ -1,0 +1,20 @@
+{
+  "lab": "m01l03-04",
+  "lesson": "m01l03",
+  "title": "Full text search, and how an address is tokenised",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 fulltext.py",
+  "main": "fulltext.py",
+  "files": [
+    "auth.log",
+    "fulltext.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

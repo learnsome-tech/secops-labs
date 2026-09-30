@@ -1,0 +1,20 @@
+{
+  "lab": "m01l04-04",
+  "lesson": "m01l04",
+  "title": "Generating the handoff from the case queue",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 handoff.py",
+  "main": "handoff.py",
+  "files": [
+    "handoff.py",
+    "open_cases.csv"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

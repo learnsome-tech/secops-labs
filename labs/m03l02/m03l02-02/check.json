@@ -1,0 +1,20 @@
+{
+  "lab": "m03l02-02",
+  "lesson": "m03l02",
+  "title": "Spraying or guessing? Let the auth log decide",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 spray_or_guess.py",
+  "main": "spray_or_guess.py",
+  "files": [
+    "auth.log",
+    "spray_or_guess.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

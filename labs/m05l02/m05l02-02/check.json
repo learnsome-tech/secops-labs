@@ -1,0 +1,20 @@
+{
+  "lab": "m05l02-02",
+  "lesson": "m05l02",
+  "title": "Walking a FILE record byte by byte",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 mft.py",
+  "main": "mft.py",
+  "files": [
+    "build_ntfs.py",
+    "mft.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

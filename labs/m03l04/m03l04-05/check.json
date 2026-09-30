@@ -1,0 +1,20 @@
+{
+  "lab": "m03l04-05",
+  "lesson": "m03l04",
+  "title": "Clustering infrastructure by shared features",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 cluster_infra.py",
+  "main": "cluster_infra.py",
+  "files": [
+    "cluster_infra.py",
+    "infra.csv"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

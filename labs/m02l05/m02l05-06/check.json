@@ -1,0 +1,21 @@
+{
+  "lab": "m02l05-06",
+  "lesson": "m02l05",
+  "title": "Hash IOC, exact bytes, loose rule, real rule",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 compare.py",
+  "main": "compare.py",
+  "files": [
+    "compare.py",
+    "make_samples.py",
+    "yara_like.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

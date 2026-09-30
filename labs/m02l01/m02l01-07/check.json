@@ -1,0 +1,20 @@
+{
+  "lab": "m02l01-07",
+  "lesson": "m02l01",
+  "title": "Static limit versus per account baseline",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 baseline.py",
+  "main": "baseline.py",
+  "files": [
+    "baseline.py",
+    "logons_per_day.csv"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

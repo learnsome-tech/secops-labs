@@ -1,0 +1,20 @@
+{
+  "lab": "m02l04-05",
+  "lesson": "m02l04",
+  "title": "Reassemble auditd records into events",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 auditd.py",
+  "main": "auditd.py",
+  "files": [
+    "audit.log",
+    "auditd.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

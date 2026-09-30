@@ -1,0 +1,21 @@
+{
+  "lab": "m04l02-03",
+  "lesson": "m04l02",
+  "title": "Following the attacker's logins from host to host",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 scope.py",
+  "main": "scope.py",
+  "files": [
+    "auth.log",
+    "inventory.csv",
+    "scope.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

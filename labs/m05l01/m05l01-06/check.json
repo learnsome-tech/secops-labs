@@ -1,0 +1,17 @@
+{
+  "lab": "m05l01-06",
+  "lesson": "m05l01",
+  "title": "The custody record for one laptop",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "custody-LT-0419.csv",
+  "files": [
+    "custody-LT-0419.csv"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

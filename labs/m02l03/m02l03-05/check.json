@@ -1,0 +1,22 @@
+{
+  "lab": "m02l03-05",
+  "lesson": "m02l03",
+  "title": "Tests catch the miss, and the over-correction",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 test_rule.py",
+  "main": "test_rule.py",
+  "files": [
+    "hunt.py",
+    "sigma_match.py",
+    "test_rule.py",
+    "tests.jsonl"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

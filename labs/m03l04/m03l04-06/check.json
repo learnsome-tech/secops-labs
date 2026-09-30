@@ -1,0 +1,21 @@
+{
+  "lab": "m03l04-06",
+  "lesson": "m03l04",
+  "title": "Comparing an incident with cluster profiles",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 overlap.py",
+  "main": "overlap.py",
+  "files": [
+    "incident.txt",
+    "overlap.py",
+    "profiles.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

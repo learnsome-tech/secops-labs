@@ -1,0 +1,20 @@
+{
+  "lab": "m03l05-03",
+  "lesson": "m03l05",
+  "title": "Parsing the task hidden inside the event",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 parse_4698.py",
+  "main": "parse_4698.py",
+  "files": [
+    "parse_4698.py",
+    "task-4698.xml"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

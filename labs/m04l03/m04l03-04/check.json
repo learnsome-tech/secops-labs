@@ -1,0 +1,20 @@
+{
+  "lab": "m04l03-04",
+  "lesson": "m04l03",
+  "title": "Password reset versus session revocation",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 revoke.py",
+  "main": "revoke.py",
+  "files": [
+    "idp.py",
+    "revoke.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

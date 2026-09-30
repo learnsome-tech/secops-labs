@@ -1,0 +1,21 @@
+{
+  "lab": "m02l02-04",
+  "lesson": "m02l02",
+  "title": "Map the CloudTrail record into the same names",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 trail_to_ecs.py",
+  "main": "trail_to_ecs.py",
+  "files": [
+    "auth.log",
+    "cloudtrail.json",
+    "trail_to_ecs.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

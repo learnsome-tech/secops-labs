@@ -1,0 +1,21 @@
+{
+  "lab": "m03l04-04",
+  "lesson": "m03l04",
+  "title": "Resolving vendor names to one group ID",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 resolve_alias.py",
+  "main": "resolve_alias.py",
+  "files": [
+    "groups.json",
+    "mentions.txt",
+    "resolve_alias.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

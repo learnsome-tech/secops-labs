@@ -1,0 +1,20 @@
+{
+  "lab": "m01l02-04",
+  "lesson": "m01l02",
+  "title": "A broad exclusion against a scoped one",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 suppress.py",
+  "main": "suppress.py",
+  "files": [
+    "falco_alerts.jsonl",
+    "suppress.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

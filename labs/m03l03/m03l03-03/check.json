@@ -1,0 +1,20 @@
+{
+  "lab": "m03l03-03",
+  "lesson": "m03l03",
+  "title": "Refang, extract and validate",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 iocs.py",
+  "main": "iocs.py",
+  "files": [
+    "iocs.py",
+    "report.txt"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

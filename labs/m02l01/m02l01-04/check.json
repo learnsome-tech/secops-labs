@@ -1,0 +1,21 @@
+{
+  "lab": "m02l01-04",
+  "lesson": "m02l01",
+  "title": "Threshold rule: five failures in a sliding window",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 threshold.py",
+  "main": "threshold.py",
+  "files": [
+    "auth.log",
+    "authlog.py",
+    "threshold.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

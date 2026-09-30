@@ -1,0 +1,19 @@
+{
+  "lab": "m02l03-02",
+  "lesson": "m02l03",
+  "title": "A Sigma rule for encoded PowerShell",
+  "mode": "checker",
+  "runner": "yamllint",
+  "command": "yamllint rule.yml",
+  "main": "rule.yml",
+  "files": [
+    "rule.yml"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "yamllint"
+  ],
+  "note": null
+}

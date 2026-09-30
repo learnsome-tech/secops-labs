@@ -1,0 +1,19 @@
+{
+  "lab": "m01l02-03",
+  "lesson": "m01l02",
+  "title": "The noisy rule, and a scoped exception",
+  "mode": "checker",
+  "runner": "yamllint",
+  "command": "yamllint shell_in_container.yaml",
+  "main": "shell_in_container.yaml",
+  "files": [
+    "shell_in_container.yaml"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "yamllint"
+  ],
+  "note": null
+}

@@ -1,0 +1,20 @@
+{
+  "lab": "m03l02-03",
+  "lesson": "m03l02",
+  "title": "Application attacks in a web access log",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 web_attacks.py",
+  "main": "web_attacks.py",
+  "files": [
+    "access.log",
+    "web_attacks.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

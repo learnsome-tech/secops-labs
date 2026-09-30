@@ -1,0 +1,28 @@
+{
+  "lab": "m04l04-04",
+  "lesson": "m04l04",
+  "title": "The reconnection gate: fail stays quarantined",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash gate.sh",
+  "main": "gate.sh",
+  "files": [
+    "command.txt",
+    "gate.sh",
+    "snapshots/db01-image-0301/passwd",
+    "snapshots/db01-image-0301/ss.txt",
+    "snapshots/db01-image-0301/sshd-T.txt",
+    "snapshots/db01-rebuilt/passwd",
+    "snapshots/db01-rebuilt/ss.txt",
+    "snapshots/db01-rebuilt/sshd-T.txt",
+    "validate.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "bash",
+    "python3"
+  ],
+  "note": null
+}

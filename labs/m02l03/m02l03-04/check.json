@@ -1,0 +1,21 @@
+{
+  "lab": "m02l03-04",
+  "lesson": "m02l03",
+  "title": "Hunt: run the rule over process creation events",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 hunt.py",
+  "main": "hunt.py",
+  "files": [
+    "hunt.py",
+    "process_creation.jsonl",
+    "sigma_match.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

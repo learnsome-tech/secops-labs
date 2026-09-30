@@ -1,0 +1,21 @@
+{
+  "lab": "m01l05-05",
+  "lesson": "m01l05",
+  "title": "Matching indicators against a proxy log",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 match_intel.py",
+  "main": "match_intel.py",
+  "files": [
+    "access.log",
+    "intel_bundle.json",
+    "match_intel.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

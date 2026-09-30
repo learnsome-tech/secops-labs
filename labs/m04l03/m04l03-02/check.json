@@ -1,0 +1,17 @@
+{
+  "lab": "m04l03-02",
+  "lesson": "m04l03",
+  "title": "Network isolation that actually cuts the attacker off",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "quarantine.nft",
+  "files": [
+    "quarantine.nft"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

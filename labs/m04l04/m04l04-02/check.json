@@ -1,0 +1,25 @@
+{
+  "lab": "m04l04-02",
+  "lesson": "m04l04",
+  "title": "Choosing a restore point the attacker never touched",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 restore_point.py",
+  "main": "restore_point.py",
+  "files": [
+    "backups/db01-2026-02-26.sql",
+    "backups/db01-2026-02-27.sql",
+    "backups/db01-2026-02-28.sql",
+    "backups/db01-2026-03-01.sql",
+    "backups/db01-2026-03-02.sql",
+    "catalogue.csv",
+    "restore_point.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

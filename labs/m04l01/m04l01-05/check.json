@@ -1,0 +1,20 @@
+{
+  "lab": "m04l01-05",
+  "lesson": "m04l01",
+  "title": "The incident's clocks, measured from the same file",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 clock.py",
+  "main": "clock.py",
+  "files": [
+    "clock.py",
+    "timeline.csv"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

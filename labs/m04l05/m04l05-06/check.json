@@ -1,0 +1,24 @@
+{
+  "lab": "m04l05-06",
+  "lesson": "m04l05",
+  "title": "Replaying the incident through the new rule",
+  "mode": "graded",
+  "runner": "recorded",
+  "command": "python3 replay.py incident.log normal-day.log",
+  "main": "replay.py",
+  "files": [
+    "command.txt",
+    "incident.log",
+    "normal-day.log",
+    "replay.py",
+    "success_after_failures.sql"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "bash",
+    "python3"
+  ],
+  "note": null
+}

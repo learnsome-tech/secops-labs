@@ -1,0 +1,17 @@
+{
+  "lab": "m02l04-04",
+  "lesson": "m02l04",
+  "title": "auditd rules that record exec and identity changes",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "soc.rules",
+  "files": [
+    "soc.rules"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,20 @@
+{
+  "lab": "m01l03-02",
+  "lesson": "m01l03",
+  "title": "Receiving syslog and decoding its priority",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 collector.py",
+  "main": "collector.py",
+  "files": [
+    "collector.py",
+    "forwarded.log"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

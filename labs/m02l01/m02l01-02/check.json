@@ -1,0 +1,21 @@
+{
+  "lab": "m02l01-02",
+  "lesson": "m02l01",
+  "title": "First look: count the auth log with awk",
+  "mode": "graded",
+  "runner": "bash",
+  "command": "bash peek.sh",
+  "main": "peek.sh",
+  "files": [
+    "auth.log",
+    "command.txt",
+    "peek.sh"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "bash"
+  ],
+  "note": null
+}

@@ -1,0 +1,20 @@
+{
+  "lab": "m04l02-05",
+  "lesson": "m04l02",
+  "title": "Rating the same incident before and after scoping",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 severity.py",
+  "main": "severity.py",
+  "files": [
+    "inventory.csv",
+    "severity.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

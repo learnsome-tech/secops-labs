@@ -1,0 +1,20 @@
+{
+  "lab": "m05l04-04",
+  "lesson": "m05l04",
+  "title": "The import table and the import hash",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 imports.py",
+  "main": "imports.py",
+  "files": [
+    "build_sample.py",
+    "imports.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

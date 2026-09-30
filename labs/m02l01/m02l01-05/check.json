@@ -1,0 +1,21 @@
+{
+  "lab": "m02l01-05",
+  "lesson": "m02l01",
+  "title": "Correlation rule: failures, then a success",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 correlate.py",
+  "main": "correlate.py",
+  "files": [
+    "auth.log",
+    "authlog.py",
+    "correlate.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

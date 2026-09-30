@@ -1,0 +1,457 @@
+[
+  {
+    "lab": "m01l01-03",
+    "lesson": "m01l01",
+    "dir": "labs/m01l01/m01l01-03"
+  },
+  {
+    "lab": "m01l01-04",
+    "lesson": "m01l01",
+    "dir": "labs/m01l01/m01l01-04"
+  },
+  {
+    "lab": "m01l01-05",
+    "lesson": "m01l01",
+    "dir": "labs/m01l01/m01l01-05"
+  },
+  {
+    "lab": "m01l02-02",
+    "lesson": "m01l02",
+    "dir": "labs/m01l02/m01l02-02"
+  },
+  {
+    "lab": "m01l02-03",
+    "lesson": "m01l02",
+    "dir": "labs/m01l02/m01l02-03"
+  },
+  {
+    "lab": "m01l02-04",
+    "lesson": "m01l02",
+    "dir": "labs/m01l02/m01l02-04"
+  },
+  {
+    "lab": "m01l02-05",
+    "lesson": "m01l02",
+    "dir": "labs/m01l02/m01l02-05"
+  },
+  {
+    "lab": "m01l03-02",
+    "lesson": "m01l03",
+    "dir": "labs/m01l03/m01l03-02"
+  },
+  {
+    "lab": "m01l03-03",
+    "lesson": "m01l03",
+    "dir": "labs/m01l03/m01l03-03"
+  },
+  {
+    "lab": "m01l03-04",
+    "lesson": "m01l03",
+    "dir": "labs/m01l03/m01l03-04"
+  },
+  {
+    "lab": "m01l04-02",
+    "lesson": "m01l04",
+    "dir": "labs/m01l04/m01l04-02"
+  },
+  {
+    "lab": "m01l04-04",
+    "lesson": "m01l04",
+    "dir": "labs/m01l04/m01l04-04"
+  },
+  {
+    "lab": "m01l04-06",
+    "lesson": "m01l04",
+    "dir": "labs/m01l04/m01l04-06"
+  },
+  {
+    "lab": "m01l05-03",
+    "lesson": "m01l05",
+    "dir": "labs/m01l05/m01l05-03"
+  },
+  {
+    "lab": "m01l05-04",
+    "lesson": "m01l05",
+    "dir": "labs/m01l05/m01l05-04"
+  },
+  {
+    "lab": "m01l05-05",
+    "lesson": "m01l05",
+    "dir": "labs/m01l05/m01l05-05"
+  },
+  {
+    "lab": "m02l01-02",
+    "lesson": "m02l01",
+    "dir": "labs/m02l01/m02l01-02"
+  },
+  {
+    "lab": "m02l01-03",
+    "lesson": "m02l01",
+    "dir": "labs/m02l01/m02l01-03"
+  },
+  {
+    "lab": "m02l01-04",
+    "lesson": "m02l01",
+    "dir": "labs/m02l01/m02l01-04"
+  },
+  {
+    "lab": "m02l01-05",
+    "lesson": "m02l01",
+    "dir": "labs/m02l01/m02l01-05"
+  },
+  {
+    "lab": "m02l01-07",
+    "lesson": "m02l01",
+    "dir": "labs/m02l01/m02l01-07"
+  },
+  {
+    "lab": "m02l02-02",
+    "lesson": "m02l02",
+    "dir": "labs/m02l02/m02l02-02"
+  },
+  {
+    "lab": "m02l02-03",
+    "lesson": "m02l02",
+    "dir": "labs/m02l02/m02l02-03"
+  },
+  {
+    "lab": "m02l02-04",
+    "lesson": "m02l02",
+    "dir": "labs/m02l02/m02l02-04"
+  },
+  {
+    "lab": "m02l02-05",
+    "lesson": "m02l02",
+    "dir": "labs/m02l02/m02l02-05"
+  },
+  {
+    "lab": "m02l02-06",
+    "lesson": "m02l02",
+    "dir": "labs/m02l02/m02l02-06"
+  },
+  {
+    "lab": "m02l02-07",
+    "lesson": "m02l02",
+    "dir": "labs/m02l02/m02l02-07"
+  },
+  {
+    "lab": "m02l03-02",
+    "lesson": "m02l03",
+    "dir": "labs/m02l03/m02l03-02"
+  },
+  {
+    "lab": "m02l03-03",
+    "lesson": "m02l03",
+    "dir": "labs/m02l03/m02l03-03"
+  },
+  {
+    "lab": "m02l03-04",
+    "lesson": "m02l03",
+    "dir": "labs/m02l03/m02l03-04"
+  },
+  {
+    "lab": "m02l03-05",
+    "lesson": "m02l03",
+    "dir": "labs/m02l03/m02l03-05"
+  },
+  {
+    "lab": "m02l04-02",
+    "lesson": "m02l04",
+    "dir": "labs/m02l04/m02l04-02"
+  },
+  {
+    "lab": "m02l04-03",
+    "lesson": "m02l04",
+    "dir": "labs/m02l04/m02l04-03"
+  },
+  {
+    "lab": "m02l04-04",
+    "lesson": "m02l04",
+    "dir": "labs/m02l04/m02l04-04"
+  },
+  {
+    "lab": "m02l04-05",
+    "lesson": "m02l04",
+    "dir": "labs/m02l04/m02l04-05"
+  },
+  {
+    "lab": "m02l04-07",
+    "lesson": "m02l04",
+    "dir": "labs/m02l04/m02l04-07"
+  },
+  {
+    "lab": "m02l04-08",
+    "lesson": "m02l04",
+    "dir": "labs/m02l04/m02l04-08"
+  },
+  {
+    "lab": "m02l05-02",
+    "lesson": "m02l05",
+    "dir": "labs/m02l05/m02l05-02"
+  },
+  {
+    "lab": "m02l05-03",
+    "lesson": "m02l05",
+    "dir": "labs/m02l05/m02l05-03"
+  },
+  {
+    "lab": "m02l05-04",
+    "lesson": "m02l05",
+    "dir": "labs/m02l05/m02l05-04"
+  },
+  {
+    "lab": "m02l05-05",
+    "lesson": "m02l05",
+    "dir": "labs/m02l05/m02l05-05"
+  },
+  {
+    "lab": "m02l05-06",
+    "lesson": "m02l05",
+    "dir": "labs/m02l05/m02l05-06"
+  },
+  {
+    "lab": "m03l01-03",
+    "lesson": "m03l01",
+    "dir": "labs/m03l01/m03l01-03"
+  },
+  {
+    "lab": "m03l01-04",
+    "lesson": "m03l01",
+    "dir": "labs/m03l01/m03l01-04"
+  },
+  {
+    "lab": "m03l01-05",
+    "lesson": "m03l01",
+    "dir": "labs/m03l01/m03l01-05"
+  },
+  {
+    "lab": "m03l02-02",
+    "lesson": "m03l02",
+    "dir": "labs/m03l02/m03l02-02"
+  },
+  {
+    "lab": "m03l02-03",
+    "lesson": "m03l02",
+    "dir": "labs/m03l02/m03l02-03"
+  },
+  {
+    "lab": "m03l02-06",
+    "lesson": "m03l02",
+    "dir": "labs/m03l02/m03l02-06"
+  },
+  {
+    "lab": "m03l03-02",
+    "lesson": "m03l03",
+    "dir": "labs/m03l03/m03l03-02"
+  },
+  {
+    "lab": "m03l03-03",
+    "lesson": "m03l03",
+    "dir": "labs/m03l03/m03l03-03"
+  },
+  {
+    "lab": "m03l03-04",
+    "lesson": "m03l03",
+    "dir": "labs/m03l03/m03l03-04"
+  },
+  {
+    "lab": "m03l03-06",
+    "lesson": "m03l03",
+    "dir": "labs/m03l03/m03l03-06"
+  },
+  {
+    "lab": "m03l04-02",
+    "lesson": "m03l04",
+    "dir": "labs/m03l04/m03l04-02"
+  },
+  {
+    "lab": "m03l04-04",
+    "lesson": "m03l04",
+    "dir": "labs/m03l04/m03l04-04"
+  },
+  {
+    "lab": "m03l04-05",
+    "lesson": "m03l04",
+    "dir": "labs/m03l04/m03l04-05"
+  },
+  {
+    "lab": "m03l04-06",
+    "lesson": "m03l04",
+    "dir": "labs/m03l04/m03l04-06"
+  },
+  {
+    "lab": "m03l05-02",
+    "lesson": "m03l05",
+    "dir": "labs/m03l05/m03l05-02"
+  },
+  {
+    "lab": "m03l05-03",
+    "lesson": "m03l05",
+    "dir": "labs/m03l05/m03l05-03"
+  },
+  {
+    "lab": "m03l05-04",
+    "lesson": "m03l05",
+    "dir": "labs/m03l05/m03l05-04"
+  },
+  {
+    "lab": "m03l05-06",
+    "lesson": "m03l05",
+    "dir": "labs/m03l05/m03l05-06"
+  },
+  {
+    "lab": "m04l01-03",
+    "lesson": "m04l01",
+    "dir": "labs/m04l01/m04l01-03"
+  },
+  {
+    "lab": "m04l01-04",
+    "lesson": "m04l01",
+    "dir": "labs/m04l01/m04l01-04"
+  },
+  {
+    "lab": "m04l01-05",
+    "lesson": "m04l01",
+    "dir": "labs/m04l01/m04l01-05"
+  },
+  {
+    "lab": "m04l02-02",
+    "lesson": "m04l02",
+    "dir": "labs/m04l02/m04l02-02"
+  },
+  {
+    "lab": "m04l02-03",
+    "lesson": "m04l02",
+    "dir": "labs/m04l02/m04l02-03"
+  },
+  {
+    "lab": "m04l02-05",
+    "lesson": "m04l02",
+    "dir": "labs/m04l02/m04l02-05"
+  },
+  {
+    "lab": "m04l03-02",
+    "lesson": "m04l03",
+    "dir": "labs/m04l03/m04l03-02"
+  },
+  {
+    "lab": "m04l03-03",
+    "lesson": "m04l03",
+    "dir": "labs/m04l03/m04l03-03"
+  },
+  {
+    "lab": "m04l03-04",
+    "lesson": "m04l03",
+    "dir": "labs/m04l03/m04l03-04"
+  },
+  {
+    "lab": "m04l03-05",
+    "lesson": "m04l03",
+    "dir": "labs/m04l03/m04l03-05"
+  },
+  {
+    "lab": "m04l04-02",
+    "lesson": "m04l04",
+    "dir": "labs/m04l04/m04l04-02"
+  },
+  {
+    "lab": "m04l04-03",
+    "lesson": "m04l04",
+    "dir": "labs/m04l04/m04l04-03"
+  },
+  {
+    "lab": "m04l04-04",
+    "lesson": "m04l04",
+    "dir": "labs/m04l04/m04l04-04"
+  },
+  {
+    "lab": "m04l05-02",
+    "lesson": "m04l05",
+    "dir": "labs/m04l05/m04l05-02"
+  },
+  {
+    "lab": "m04l05-03",
+    "lesson": "m04l05",
+    "dir": "labs/m04l05/m04l05-03"
+  },
+  {
+    "lab": "m04l05-05",
+    "lesson": "m04l05",
+    "dir": "labs/m04l05/m04l05-05"
+  },
+  {
+    "lab": "m04l05-06",
+    "lesson": "m04l05",
+    "dir": "labs/m04l05/m04l05-06"
+  },
+  {
+    "lab": "m05l01-03",
+    "lesson": "m05l01",
+    "dir": "labs/m05l01/m05l01-03"
+  },
+  {
+    "lab": "m05l01-04",
+    "lesson": "m05l01",
+    "dir": "labs/m05l01/m05l01-04"
+  },
+  {
+    "lab": "m05l01-06",
+    "lesson": "m05l01",
+    "dir": "labs/m05l01/m05l01-06"
+  },
+  {
+    "lab": "m05l01-07",
+    "lesson": "m05l01",
+    "dir": "labs/m05l01/m05l01-07"
+  },
+  {
+    "lab": "m05l02-02",
+    "lesson": "m05l02",
+    "dir": "labs/m05l02/m05l02-02"
+  },
+  {
+    "lab": "m05l02-03",
+    "lesson": "m05l02",
+    "dir": "labs/m05l02/m05l02-03"
+  },
+  {
+    "lab": "m05l02-05",
+    "lesson": "m05l02",
+    "dir": "labs/m05l02/m05l02-05"
+  },
+  {
+    "lab": "m05l03-02",
+    "lesson": "m05l03",
+    "dir": "labs/m05l03/m05l03-02"
+  },
+  {
+    "lab": "m05l03-03",
+    "lesson": "m05l03",
+    "dir": "labs/m05l03/m05l03-03"
+  },
+  {
+    "lab": "m05l03-05",
+    "lesson": "m05l03",
+    "dir": "labs/m05l03/m05l03-05"
+  },
+  {
+    "lab": "m05l04-02",
+    "lesson": "m05l04",
+    "dir": "labs/m05l04/m05l04-02"
+  },
+  {
+    "lab": "m05l04-03",
+    "lesson": "m05l04",
+    "dir": "labs/m05l04/m05l04-03"
+  },
+  {
+    "lab": "m05l04-04",
+    "lesson": "m05l04",
+    "dir": "labs/m05l04/m05l04-04"
+  },
+  {
+    "lab": "m05l04-06",
+    "lesson": "m05l04",
+    "dir": "labs/m05l04/m05l04-06"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "lab": "m05l02-03",
+  "lesson": "m05l02",
+  "title": "Timestomping: when the two clocks disagree",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 timestomp.py",
+  "main": "timestomp.py",
+  "files": [
+    "build_ntfs.py",
+    "mft.py",
+    "timestomp.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

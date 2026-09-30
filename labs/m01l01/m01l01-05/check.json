@@ -1,0 +1,20 @@
+{
+  "lab": "m01l01-05",
+  "lesson": "m01l01",
+  "title": "A key risk indicator: silent log sources",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 log_coverage_kri.py",
+  "main": "log_coverage_kri.py",
+  "files": [
+    "assets.csv",
+    "log_coverage_kri.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

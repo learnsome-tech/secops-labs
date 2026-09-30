@@ -1,0 +1,20 @@
+{
+  "lab": "m03l05-06",
+  "lesson": "m03l05",
+  "title": "Finding persistence in the API server audit log",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 audit_persistence.py",
+  "main": "audit_persistence.py",
+  "files": [
+    "audit.log",
+    "audit_persistence.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

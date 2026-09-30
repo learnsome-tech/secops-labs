@@ -1,0 +1,19 @@
+{
+  "lab": "m01l04-02",
+  "lesson": "m01l04",
+  "title": "A runbook for MFA push fatigue",
+  "mode": "checker",
+  "runner": "yamllint",
+  "command": "yamllint rb-017-mfa-fatigue.yaml",
+  "main": "rb-017-mfa-fatigue.yaml",
+  "files": [
+    "rb-017-mfa-fatigue.yaml"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "yamllint"
+  ],
+  "note": null
+}

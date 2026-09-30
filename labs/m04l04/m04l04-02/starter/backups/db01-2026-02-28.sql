@@ -1,0 +1,6 @@
+-- PostgreSQL database dump, db01, taken 2026-02-28T02:00:00Z
+COPY public.customers (id, name, email) FROM stdin;
+1041	A. Example	a.example@example.com
+1042	B. Sample	b.sample@example.org
+1043	C. Demo	c.demo@example.org
+\.

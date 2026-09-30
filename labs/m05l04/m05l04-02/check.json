@@ -1,0 +1,20 @@
+{
+  "lab": "m05l04-02",
+  "lesson": "m05l04",
+  "title": "Hashes: identity, and why identity is fragile",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 hashes.py",
+  "main": "hashes.py",
+  "files": [
+    "build_sample.py",
+    "hashes.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

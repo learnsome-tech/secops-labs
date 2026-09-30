@@ -1,0 +1,21 @@
+{
+  "lab": "m03l05-04",
+  "lesson": "m03l05",
+  "title": "Services and Run keys against a baseline",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 autoruns_diff.py",
+  "main": "autoruns_diff.py",
+  "files": [
+    "autoruns_diff.py",
+    "baseline.txt",
+    "events.xml"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

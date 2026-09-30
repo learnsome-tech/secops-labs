@@ -1,0 +1,20 @@
+{
+  "lab": "m04l05-02",
+  "lesson": "m04l05",
+  "title": "Where the hours went",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 gaps.py",
+  "main": "gaps.py",
+  "files": [
+    "gaps.py",
+    "timeline.csv"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

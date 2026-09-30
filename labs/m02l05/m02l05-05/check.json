@@ -1,0 +1,21 @@
+{
+  "lab": "m02l05-05",
+  "lesson": "m02l05",
+  "title": "Scan the samples and report offsets",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 scan.py",
+  "main": "scan.py",
+  "files": [
+    "make_samples.py",
+    "scan.py",
+    "yara_like.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,23 @@
+{
+  "lab": "m02l02-05",
+  "lesson": "m02l02",
+  "title": "One query across both sources",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 query.py",
+  "main": "query.py",
+  "files": [
+    "auth.log",
+    "cloudtrail.json",
+    "query.py",
+    "sshd_to_ecs.py",
+    "trail_to_ecs.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

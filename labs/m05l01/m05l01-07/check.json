@@ -1,0 +1,20 @@
+{
+  "lab": "m05l01-07",
+  "lesson": "m05l01",
+  "title": "Checking the custody record for gaps",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 custody.py",
+  "main": "custody.py",
+  "files": [
+    "custody-LT-0419.csv",
+    "custody.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

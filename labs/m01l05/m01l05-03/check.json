@@ -1,0 +1,17 @@
+{
+  "lab": "m01l05-03",
+  "lesson": "m01l05",
+  "title": "One STIX indicator, field by field",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "indicator.json",
+  "files": [
+    "indicator.json"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

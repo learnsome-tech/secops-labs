@@ -1,0 +1,20 @@
+{
+  "lab": "m01l04-06",
+  "lesson": "m01l04",
+  "title": "Replaying a time based escalation",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 escalate.py",
+  "main": "escalate.py",
+  "files": [
+    "escalate.py",
+    "p1_escalation.json"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

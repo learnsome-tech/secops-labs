@@ -1,0 +1,20 @@
+{
+  "lab": "m01l03-03",
+  "lesson": "m01l03",
+  "title": "Parsed fields and a real index",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 field_index.py",
+  "main": "field_index.py",
+  "files": [
+    "auth.log",
+    "field_index.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}
